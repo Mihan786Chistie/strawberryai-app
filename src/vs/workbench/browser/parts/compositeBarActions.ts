@@ -431,7 +431,7 @@ export class CompositeBarActionViewItem extends BaseActionViewItem {
 			persistence: {
 				hideOnKeyDown: true,
 			},
-			apblueberryance: {
+			apstrawberryance: {
 				showPointer: true,
 				compact: true,
 				skipFadeInAnimation,

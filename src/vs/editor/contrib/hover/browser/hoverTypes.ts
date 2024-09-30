@@ -29,7 +29,7 @@ export interface IHoverPart {
 	readonly forceShowAtRange?: boolean;
 
 	/**
-	 * If true, the hover item should apblueberry before content
+	 * If true, the hover item should apstrawberry before content
 	 */
 	readonly isBeforeContent?: boolean;
 	/**
